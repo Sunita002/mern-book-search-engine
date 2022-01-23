@@ -42,15 +42,14 @@ Let's start by revisiting the web application's appearance and functionality.
 
 As you can see in the following animation, a user can type a search term (in this case, "star wars") in a search box and the results appear:
 
-![Animation shows "star wars" typed into a search box and books about Star Wars appearing as results.](./Assets/images/21-mern-homework-demo-01.gif)
-
+![Animation shows "star wars" typed into a search box and books about Star Wars appearing as results.]![21-mern-homework-demo-01](https://user-images.githubusercontent.com/87583026/150700636-76ad4a73-e38e-4532-9737-4c009caa37b7.gif)
 The user can save books by clicking "Save This Book!" under each search result, as shown in the following animation:
 
-![Animation shows user clicking "Save This Book!" button to save books that appear in search results. The button label changes to "Book Already Saved" after it is clicked and the book is saved.](./Assets/images/21-mern-homework-demo-02.gif)
+![Animation shows user clicking "Save This Book!" button to save books that appear in search results. The button label changes to "Book Already Saved" after it is clicked and the book is saved.]![21-mern-homework-demo-02](https://user-images.githubusercontent.com/87583026/150700656-e163facc-85e1-4daf-9939-58f50e933e87.gif)
 
 A user can view their saved books on a separate page, as shown in the following animation:
 
-![The Viewing Lernantino's Books page shows the books that the user Lernaninto has saved.](./Assets/images/21-mern-homework-demo-03.gif)
+![The Viewing Lernantino's Books page shows the books that the user Lernaninto has saved.] ![21-mern-homework-demo-03](https://user-images.githubusercontent.com/87583026/150700669-9985c5cb-af94-4fb2-ae1d-c9362cedf901.gif)
 
 
 
